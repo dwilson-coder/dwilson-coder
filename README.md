@@ -1,7 +1,7 @@
 I'm a Full-Stack web developer, though most of my recent work has been Front End, UX/UI. Currently learning software development and the DevOps process. 
 
 Other interests: 
-I’m currently working on GrapQL, Hooks
+I’m interested in any open source projects on geospatial analysis. 
 
 Currently learning:
 Python and network automation.
