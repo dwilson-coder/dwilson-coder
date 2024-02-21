@@ -23,7 +23,7 @@ Bash, Docker, Figma, Photoshop, XD.
 
 ![dwilson-coder](https://github-readme-stats.vercel.app/api?username=dwilson-coder&show_icons=true&locale=en)
 
-<a href="https://app.daily.dev/dwilsonCoder"><img src="https://api.daily.dev/devcards/b1f880a2d98b4da883f8bc62e8ae3542.png?r=t7i" width="400" alt="D. Wilson's Dev Card"/></a>
+<a href="https://app.daily.dev/dwilsoncoder"><img src="https://api.daily.dev/devcards/v2/RvdIgbaa3.png?type=default&r=end" width="356" alt="D. Wilson's Dev Card"/></a>
 
 ## 🔗 Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damion-coder-wilson)
