@@ -13,15 +13,8 @@ Angular, AWS, Azure, Dart, Electron, Express, Firebase, Flutter, GraphQL, Heroku
 
 
 ## 🛠 Software & Tools
-Bash, Docker, Figma, Photoshop, XD.
+Bash, Docker, Figma, Photoshop, Affinity Photo / Publisher / Designer
 
-
-
-### Snapshot:
-
-![dwilson-coder](https://github-readme-stats.vercel.app/api/top-langs?username=dwilson-coder&show_icons=true&locale=en&layout=compact)
-
-![dwilson-coder](https://github-readme-stats.vercel.app/api?username=dwilson-coder&show_icons=true&locale=en)
 
 <a href="https://app.daily.dev/dwilsoncoder"><img src="https://api.daily.dev/devcards/v2/RvdIgbaa3.png?type=default&r=end" width="356" alt="D. Wilson's Dev Card"/></a>
 
