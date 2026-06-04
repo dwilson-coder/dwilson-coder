@@ -18,7 +18,6 @@ Bash, Docker, Figma, Photoshop, Affinity Photo / Publisher / Designer
 
 <a href="https://app.daily.dev/dwilsoncoder"><img src="https://api.daily.dev/devcards/v2/RvdIgbaa3.png?type=default&r=end" width="356" alt="D. Wilson's Dev Card"/></a>
 
-## 🔗 Contact Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damion-coder-wilson)
+
 
  
