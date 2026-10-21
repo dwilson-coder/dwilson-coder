@@ -1,23 +1,7 @@
+### Hi, I'm Damion 👋
 
-## 🚀 Hi, I'm Damion!
-I'm a Full-Stack web developer, though most of my work has been Front End. I'm currently learning DevOps.
+I’m Damion Wilson. I spent years as a freelance web developer, building websites and full-stack applications from the ground up for clients. Now I’m pursuing a degree and a career in cybersecurity, because building software showed me how often security gets treated as an afterthought. I document that journey at CodeBox, my portfolio site, where I post coding projects and tutorials. My goal is to bring a developer’s perspective to security: someone who understands how applications are built, and how to protect them.
 
+I post coding projects and tutorials at **[codeboxllc.net](https://codeboxllc.net/)**.
 
-## 🛠 Frontend Development
-Bootstrap, Canvasjs, CSS3, Gulp, HTML5, JavaScript, Sass, Tailwind, Typescript, Vuejs, Webpack.
-
-
-## 🛠 Backend Development
-Angular, AWS, Azure, Dart, Electron, Express, Firebase, Flutter, GraphQL, Heroku, Jest, Kotlin, Laravel, MongoDB, mySQL, Nodejs, Kubernetes, Php, PostgreSQL, Postman, Python, React, React Native, Redis, Redux.
-
-
-
-## 🛠 Software & Tools
-Bash, Docker, Figma, Photoshop, Affinity Photo / Publisher / Designer
-
-
-<a href="https://app.daily.dev/dwilsoncoder"><img src="https://api.daily.dev/devcards/v2/RvdIgbaa3.png?type=default&r=end" width="356" alt="D. Wilson's Dev Card"/></a>
-
-
-
- 
+[LinkedIn](https://www.linkedin.com/in/damion-coder-wilson) · [Bluesky](https://bsky.app/profile/dwilsoncoder.bsky.social)
